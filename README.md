@@ -36,4 +36,4 @@
 
 - [네트워크](https://github.com/NextGen-Coders/CS-Study-2024/tree/main/Network)
 
-- [데이터베이스](https://github.com/kangsinbeom/CS-Study-2024/tree/main/DB)
+- [데이터베이스](https://github.com/NextGen-Coders/CS-Study-2024/tree/main/DB)
